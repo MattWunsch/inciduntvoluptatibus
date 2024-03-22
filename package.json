@@ -1,0 +1,29 @@
+{
+  "name": "inciduntvoluptatibus",
+  "version": "1.0.0",
+  "description": "typesafe pathof utils",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.4.3"
+  },
+  "peerDependencies": {
+    "typescript": "^3.4.3"
+  },
+  "keywords": [
+    "debitis",
+    "typecript",
+    "recusandae"
+  ],
+  "author": "JuniorDooley",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattWunsch/inciduntvoluptatibus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MattWunsch/inciduntvoluptatibus.git/issues"
+  },
+  "homepage": "https://github.com/MattWunsch/inciduntvoluptatibus.git"
+}
